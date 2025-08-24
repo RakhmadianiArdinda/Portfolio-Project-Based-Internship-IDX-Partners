@@ -1,0 +1,5 @@
+unixodbc
+unixodbc-dev
+libpq-dev
+g++
+msodbcsql17
