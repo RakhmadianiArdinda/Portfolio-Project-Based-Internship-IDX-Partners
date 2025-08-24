@@ -1,0 +1,21 @@
+CustomerID,CustomerName,Address,CityName,StateName,Age,Gender,Email
+1,Shelly Juwita,Jl. Boulevard No. 31,Kelapa Gading,Jakarta Utara,25,female,shelly@gmail.com
+2,Bobi Rinaldo,Jl. Mangga No. 1,Tanjung Priok,Jakarta Utara,31,male,Bobi@gmail.com
+3,Adam Malik,Jl. Kincir Angin No. 50,Pademangan,Jakarta Utara,23,male,Adam@gmail.com
+4,Susi Rahmawati,Jl. Kenanga No. 11,Cilandak,Jakarta Selatan,45,female,Susi@gmail.com
+5,Dimas Prasetyo,Jl. Niagara No. 69,Jagakarsa,Jakarta Selatan,32,male,Dimas@gmail.com
+6,Aji Pangestu,Jl. Sempurna No. 2,Mampang Prapatan,Jakarta Selatan,40,male,Aji@gmail.com
+7,Bunga Malika,Jl. Merak No. 10,Cibinong,Bogor,27,female,Bunga@gmail.com
+8,Ria Addini,Jl. Arjuna No. 40,Menteng,Jakarta Pusat,29,female,Ria@gmail.com
+9,Lisa Wulandari,Jl. Ampera No. 39,Tebet,Jakarta Selatan,26,female,Lisa@gmail.com
+10,Rio Wijaya,Jl. Abdul Muis No. 70,Gambir,Jakarta Pusat,52,male,Rio@gmail.com
+11,Ahmad Riyansah,Jl. Kecapi No. 5,Babelan,Bekasi,27,male,Ahmad@gmail.com
+12,Mario Robert,Jl. Kebayoran No. 13,Cisauk,Tangerang,28,male,Mario@gmail.com
+13,Khansa Audya,Jl. Kedoya No. 50,Cinere,Depok,32,female,Khansa@gmail.com
+14,Cintya Gabriela,Jl. Pintu Air No. 14,Kalideres,Jakarta Barat,24,female,Cintya@gmail.com
+15,Ani Nuraini,Jl. Cimpedak No. 50,Cibitung,Bekasi,45,female,Ani@gmail.com
+16,Agung Mulyono,Jl. Daan Mogot No. 60,Palmerah,Jakarta Barat,38,male,Agung@gmail.com
+17,Rian Wibowo,Jl. Batu No. 49,Bojonggede,Bogor,41,male,Rian@gmail.com
+18,Lutfi Aulia,Jl. Elang No. 2,Ciawi,Bogor,30,male,Lutfi@gmail.com
+19,Malika Cantika,Jl. Imam Bonjol No. 30,Balaraja,Tangerang,38,female,Malika@gmail.com
+20,Ratna Sariasih,Jl. Jambore No. 41,Sukatani,Bekasi,53,female,Ratna@gmail.com
