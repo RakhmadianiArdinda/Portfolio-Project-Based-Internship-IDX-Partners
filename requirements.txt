@@ -1,0 +1,6 @@
+streamlit
+pandas
+pyodbc
+altair
+altair_saver
+vl-convert-python
