@@ -3,6 +3,7 @@ This portfolio is the final project of the **Project Based Internship Program** 
 **Project Stages**
 
 **1. Data Warehouse Design**
+
 Created a database with dimension and fact tables:
   - DimAccount, DimCustomer, DimBranch, DimDate, and DimTime 
   - FactTransaction
