@@ -1,6 +1,6 @@
 streamlit
 pandas
-pyodbc
 altair
+matplotlib
 altair_saver
 vl-convert-python
