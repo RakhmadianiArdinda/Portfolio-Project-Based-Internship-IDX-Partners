@@ -1,4 +1,4 @@
-# Final Project -- Project Based Internship (Rakamin Academy X ID/X Partners) 
+# Final Project -- Project Based Internship (Rakamin Academy x ID/X Partners) 
 This portfolio is the final project of the **Project Based Internship Program** organized by **Rakamin Academy in collaboration with ID/X Partners**
 **Project Stages**
 **1. Data Warehouse Design**
