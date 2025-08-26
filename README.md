@@ -13,7 +13,7 @@ Created a database with dimension and fact tables:
 - Transferred data from transaction_db into the FactTransaction table in DWH using _insert/update_.
 
 **3. Stored Procedure (SQL)**
-- Daily Transaction -> filtered by _start date, end date, and branch name_.
+- Daily Transaction → filtered by _start date, end date, and branch name_.
 - Balance per Customer → filterable by _customer name_.
 
 **4. Data Export & Integration with SQLite**
