@@ -31,4 +31,5 @@ Created a database with dimension and fact tables:
 - Balance per Customer:
   - Recap table (downloadable as CSV).
   - Bar chart comparing Initial Balance vs Current Balance (downloadable as PNG).
+
 Website: https://customer-balance-report.streamlit.app/
